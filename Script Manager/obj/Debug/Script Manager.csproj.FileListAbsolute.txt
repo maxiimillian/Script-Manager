@@ -1,0 +1,28 @@
+C:\Users\frogg\source\repos\Script Manager\Script Manager\obj\Debug\Script Manager.csprojAssemblyReference.cache
+C:\Users\frogg\source\repos\Script Manager\Script Manager\obj\Debug\Script_Manager.Properties.Resources.resources
+C:\Users\frogg\source\repos\Script Manager\Script Manager\obj\Debug\Script Manager.csproj.GenerateResource.cache
+C:\Users\frogg\source\repos\Script Manager\Script Manager\obj\Debug\Script Manager.csproj.CoreCompileInputs.cache
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\Script Manager.exe.config
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\Script Manager.exe
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\Script Manager.pdb
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\System.Buffers.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\System.Memory.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\System.Buffers.xml
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\System.Memory.xml
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\frogg\source\repos\Script Manager\Script Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\frogg\source\repos\Script Manager\Script Manager\obj\Debug\Script_Manager.Form1.resources
+C:\Users\frogg\source\repos\Script Manager\Script Manager\obj\Debug\Script Manager.csproj.CopyComplete
+C:\Users\frogg\source\repos\Script Manager\Script Manager\obj\Debug\Script Manager.exe
+C:\Users\frogg\source\repos\Script Manager\Script Manager\obj\Debug\Script Manager.pdb
