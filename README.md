@@ -7,7 +7,7 @@ A place to save, run, and manage scripts or files.
 - See all processes started through the manager
 - Click active process to manage and focus the tabs
 
-#ToDo
+# ToDo
 - Thinner and more friendly layout better suited to a small manager
 - Merge active and dormant tabs and differentiate with colour
 - Use SSH to control tabs an a remote system
